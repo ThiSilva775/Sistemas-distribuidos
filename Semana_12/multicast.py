@@ -1,3 +1,8 @@
+#Curso de Engenharia de Software - UniEVANGÉLICA 
+#Disciplina de Sistemas Distribuidos 
+#Dev: Thiago Silva Soares
+#DATA: 23/05/2023
+
 import socket
 
 # Configuração do endereço e porta do servidor
